@@ -1,0 +1,16 @@
+{
+  "name": "boatmarina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest router.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "supertest": "^6.2.4"
+  }
+}
